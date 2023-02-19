@@ -9,7 +9,7 @@
 
 int main()
 {
-    printf("\nName - Vipul Chauhan\nSection - A\nStudent id - 20011016\n\n");
+    printf("\nName - Kinshuk Dewari\nSection - A\nStudent id - 20011178\n\n");
     int n,seektime=0,completed=0,diff=0,head,pos=0;
     printf("Enter the number of sequence : ");
     scanf("%d",&n);
