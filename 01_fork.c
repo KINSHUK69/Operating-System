@@ -8,7 +8,7 @@
 #include<unistd.h>
 int main() 
 {
-	printf("\nName - Vipul Chauhan\nSection - A\nStudent id - 20011016\n\n");
+	printf("\nName - Kinshuk Dewari\nSection - A\nStudent id - 20011178\n\n");
 	fork();
 	printf("Hello World!\n"); 
 	printf("Get PID: %d\n\n", getpid());
