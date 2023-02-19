@@ -8,7 +8,7 @@
 #include<stdlib.h>
 int main() 
 {
-	printf("\nName - Vipul Chauhan\nSection - A\nStudent id - 20011016\n\n");
+	printf("\nName - Kinshuk Dewari\nSection - A\nStudent id - 20011178\n\n");
 	int pid=fork();
 	if(pid > 0) 
 	{
