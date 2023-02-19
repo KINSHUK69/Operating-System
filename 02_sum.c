@@ -8,7 +8,7 @@
 #include<unistd.h>
 int main() 
 {
-	printf("\nName - Vipul Chauhan\nSection - A\nStudent id - 20011016\n\n");
+	printf("\nName - Kinshuk Dewari\nSection - A\nStudent id - 20011178\n\n");
 	int even_sum=0,odd_sum=0,n;
 	printf("Enter the size of an array : "); 
 	scanf("%d",&n);
