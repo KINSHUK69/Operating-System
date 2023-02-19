@@ -47,7 +47,7 @@ int main()
     int n,completed=0,curr_time=0,first_process=0,qn,front=-1,rear=-1;
     int queue[100];
     float total_it=0;
-    printf("\nName - Vipul Chauhan\nSection - A\nStudent id - 20011016\n\n");
+    printf("\nName - Kinshuk Dewari\nSection - A\nStudent id - 20011178\n\n");
 	printf("Enter the Number of elements : ");
 	scanf("%d",&n);
 	
