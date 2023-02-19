@@ -39,7 +39,7 @@ int main()
 {
     int n,current_time=0,completed=0,prev=0;
     float total_it=0;
-    printf("\nName - Vipul Chauhan\nSection - A\nStudent id - 20011016\n\n");
+    printf("\nName - Kinshuk Dewari\nSection - A\nStudent id - 20011178\n\n");
 	printf("Enter the Number of elements : ");
 	scanf("%d",&n);
 
